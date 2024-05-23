@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 import javax.lang.model.util.ElementKindVisitor7;
 
-public class Nym {
+public class AtmProject {
 
     public static void main(String[] args) {
         int pin = 1234;
